@@ -1,0 +1,58 @@
+body{
+	font-family: 'Arvo', serif;
+}
+
+.height{
+	min-height: 100vh;
+}
+
+.text-test{
+	color: #F18F01;
+}
+.bg-test{
+	background-color: #2E4057;
+}
+
+.bg-test1{
+	background-color: #F18F01;
+}
+
+.border-test{
+	border-width: thick;
+	border-color:  #F18F01;
+}
+.btn-test{
+	background-color: #F18F01;
+}
+
+.btn-outline-test{
+	background-color: #F18F01;
+}
+
+.title-underline{
+	width: 200px;
+	height:10px;
+	margin: 0 auto;
+}
+
+.height-80{
+	min-height: 80vh;
+}
+
+.about-picture{
+	background: url(../img/foto4.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#filler{
+	background: url(../img/filler1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 75vh;	
+}
+
